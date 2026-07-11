@@ -132,16 +132,19 @@ The `.pbix` file contains a **3-page interactive report**:
 | 🟨 **Customer & Marketing Analytics** | Avg rating, positive sentiment %, CTR, conversion rate, avg ROAS, campaign performance (conversion vs. ROAS), channel-wise order volume, rating by delivery status, feedback category breakdown |
 
 ### [Executive Overview]
-<img width="1042" height="592" alt="Screenshot 2026-07-07 173825" src="https://github.com/user-attachments/assets/e6cdbf5c-2605-4af0-84ca-ee3b2b776b0e" />
+<img width="1031" height="585" alt="Screenshot 2026-07-11 113310" src="https://github.com/user-attachments/assets/ae12f256-95b9-402e-8899-ef2ba78f2f35" />
+
 
 
 
 ### [Delivery & Operations Performance]
-<img width="1032" height="582" alt="Screenshot 2026-07-07 172105" src="https://github.com/user-attachments/assets/96974dfd-249e-4b7c-a2e8-1f28b77419b8" />
+<img width="1033" height="585" alt="Screenshot 2026-07-11 113320" src="https://github.com/user-attachments/assets/cc5f3825-a31c-419d-b870-bc229e813690" />
+
 
 
 ### [Customer & Marketing Analytics]
-<img width="1027" height="582" alt="Screenshot 2026-07-07 172115" src="https://github.com/user-attachments/assets/159e8747-4860-4046-8e83-9063919aea38" />
+<img width="1027" height="582" alt="Screenshot 2026-07-11 113331" src="https://github.com/user-attachments/assets/7c9134b4-4058-4230-97b2-56baca8b26a5" />
+
 
 
 ## 🗄 SQL Analysis
